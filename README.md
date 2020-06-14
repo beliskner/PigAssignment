@@ -1,3 +1,3 @@
-# PigAssignment
+# PigAssignment for Inholland PDP. Studentnumber 572789 Wilmar de Hoogd
 
-Pig Assignment Wilmar
+
